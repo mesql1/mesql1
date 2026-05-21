@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de **Engenharia de Computação** na **Universidade Estadual do Maranhão (UEMA)** e desenvolvedor focado no ecossistema **Python/Django**. Tenho grande interesse em arquitetura de software, bancos de dados e automação.
+um estudante de **Engenharia de Computação** na **Universidade Estadual do Maranhão (UEMA)** e desenvolvedor focado no ecossistema **Python/Django**. Tenho grande interesse em arquitetura de software, bancos de dados e automação.
 
 - 🎓 Graduando em Engenharia de Computação pela UEMA.
 - 🐍 Especialista em **Python** e **Django**.
