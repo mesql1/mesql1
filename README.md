@@ -1,4 +1,4 @@
-# Olá, eu sou o ! 👋
+# Olá, eu sou o Luiz! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Python;Apaixonado+por+Sistemas+Escal%C3%A1veis" alt="Typing SVG" />
