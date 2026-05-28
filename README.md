@@ -58,7 +58,7 @@ Sou um estudante de **Engenharia de Computação** na **Universidade Estadual do
 
 ### 📫 Contato
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mesql1" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
