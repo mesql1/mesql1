@@ -1,71 +1,189 @@
-# Olá, eu sou o Luiz!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Python;Apaixonado+por+Sistemas+Escal%C3%A1veis" alt="Typing SVG" />
-</div>
 
----
+# 👋 Olá, eu sou o Luiz Eduardo
 
-### Sobre Mim
+### Computer Engineering Student • Python Developer • Backend Enthusiast
 
-Sou um estudante de **Engenharia de Computação** na **Universidade Estadual do Maranhão (UEMA)** e desenvolvedor focado no ecossistema **Python/Django**. Tenho grande interesse em arquitetura de software, bancos de dados e automação.
+<p>
+  Estudante de <strong>Engenharia de Computação</strong> na UEMA, focado em desenvolvimento Backend com Python, construção de APIs, automação e engenharia de software.
+</p>
 
-- Graduando em Engenharia de Computação pela UEMA.
-- Especialista em **Python** e **Django**.
-- Foco em desenvolvimento de APIs e sistemas de gestão.
-- Criador do **JoBBot**, facilitando a busca de empregos via Discord.
-
----
-
-###  Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### Projetos Django & Backend
-
-- **[Sistema de Gestão Escolar (SGE)](https://github.com/mesql1)**: Sistema robusto para controle de notas, frequência e dados acadêmicos, focado em produtividade escolar.
-- **[JoBBot](https://github.com/mesql1/JoBBot)**: Bot de Discord que consome APIs de vagas para entregar oportunidades em tempo real.
-- **Projetos Django**
-
----
-
-### Estatísticas
-
-<div align="center">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesql1&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
-
-### Atividade no GitHub
-
-<div align="center">
-  <!-- A animação da cobra requer que você configure o GitHub Action 'Platane/snk' -->
-  <img src="https://raw.githubusercontent.com/mesql1/mesql1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### Contato
-
-<div align="left">
-  <a href="https://github.com/mesql1" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p>
+  <a href="https://github.com/mesql1">
+    <img src="https://img.shields.io/badge/GitHub-mesql1-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.instagram.com/luiz.mesq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Atualmente estou construindo minha experiência como desenvolvedor através de projetos práticos voltados para **Backend, automação e desenvolvimento de sistemas**.
+
+Tenho interesse especial em criar aplicações bem estruturadas, explorando conceitos como **arquitetura de software, APIs REST, bancos de dados, orientação a objetos e testes automatizados**.
+
+```python
+luiz = {
+    "formacao": "Engenharia de Computação - UEMA",
+    "foco": ["Backend", "Python", "Django", "APIs"],
+    "interesses": [
+        "Arquitetura de Software",
+        "Banco de Dados",
+        "Automação",
+        "Engenharia de Software"
+    ],
+    "atualmente_aprendendo": "Construindo projetos e aprofundando conhecimentos em Backend"
+}
+```
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+Também possuo experiência trabalhando com:
+
+`REST APIs` • `JSON` • `Requests` • `Pytest` • `Discord.py` • `CSV` • `POO`
+
+---
+
+## 💼 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 JoBBot
+
+Bot para Discord desenvolvido em **Python** que automatiza a busca por oportunidades de emprego na área de tecnologia.
+
+O sistema consome a **API da Adzuna**, permite pesquisas personalizadas e pode enviar vagas automaticamente para canais configurados nos servidores.
+
+**Principais recursos:**
+
+- 🔎 Busca de vagas em tempo real
+- 🤖 Envio automático de oportunidades
+- 💬 Comandos personalizados no Discord
+- 🌐 Integração com API externa
+- 🔐 Credenciais protegidas com variáveis de ambiente
+- ⚙️ Configuração independente por servidor
+
+**Stack**
+
+`Python` `Discord.py` `REST API` `Requests` `JSON`
+
+<br>
+
+[🔗 Ver projeto](https://github.com/mesql1/JoBBot)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Gerenciador Financeiro
+
+Aplicação em Python para gerenciamento de **finanças pessoais**, criada com foco em organização de código e conceitos de engenharia de software.
+
+Permite controlar receitas, despesas, categorias, orçamentos e analisar informações financeiras.
+
+**Principais recursos:**
+
+- 💳 CRUD de transações
+- 📊 Controle de orçamento por categoria
+- 🚨 Alertas de limite de gastos
+- 🗄️ Persistência com SQLite
+- 📁 Exportação de dados para CSV
+- 🧪 Testes automatizados
+- 📐 Arquitetura em camadas
+
+**Stack**
+
+`Python` `SQLite` `Pytest` `POO` `CSV`
+
+<br>
+
+[🔗 Ver projeto](https://github.com/mesql1/gerenciador_finan)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mesql1&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesql1&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mesql1&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+- 📚 Graduando em **Engenharia de Computação**
+- 🐍 Aprofundando conhecimentos em **Python**
+- 🌐 Estudando desenvolvimento **Backend**
+- 🗄️ Evoluindo conhecimentos em **bancos de dados**
+- 🧠 Estudando **arquitetura e boas práticas de software**
+- 🚀 Desenvolvendo projetos para fortalecer meu portfólio
+
+---
+
+## 📬 Contato
+
+Se quiser conversar sobre tecnologia, projetos ou oportunidades, fique à vontade para entrar em contato.
+
+<p align="left">
+  <a href="https://github.com/mesql1">
+    <img src="https://img.shields.io/badge/GitHub-mesql1-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-mesquita-de-sena-azevedo-4672b93a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Transformando ideias em código, um projeto de cada vez.
+
+![Profile Views](https://komarev.com/ghpvc/?username=mesql1&style=flat-square)
+
 </div>
