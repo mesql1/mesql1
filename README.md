@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Atualmente estou construindo minha experiência como desenvolvedor através de projetos práticos voltados para **Backend, automação e desenvolvimento de sistemas**.
 
