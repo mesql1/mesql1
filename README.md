@@ -140,16 +140,26 @@ Permite controlar receitas, despesas, categorias, orçamentos e analisar informa
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mesql1&show_icons=true&theme=github_dark"
+  width="75%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mesql1&theme=github_dark"
+  alt="GitHub Profile Summary"
 />
 
 <br><br>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesql1&layout=compact&theme=github_dark"
-/>
+<p align="center">
+  <img
+    width="40%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mesql1&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="40%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mesql1&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
 
 </div>
 
