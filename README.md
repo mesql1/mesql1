@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Luiz Eduardo
+#  Olá, eu sou o Luiz Eduardo
 
 ### Computer Engineering Student • Python Developer • Backend Enthusiast
 
@@ -40,7 +40,7 @@ luiz = {
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 ### Linguagens
 
@@ -72,13 +72,13 @@ Também possuo experiência trabalhando com:
 
 ---
 
-## 💼 Projetos em Destaque
+##  Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 JoBBot
+###  JoBBot
 
 Bot para Discord desenvolvido em **Python** que automatiza a busca por oportunidades de emprego na área de tecnologia.
 
@@ -86,12 +86,12 @@ O sistema consome a **API da Adzuna**, permite pesquisas personalizadas e pode e
 
 **Principais recursos:**
 
-- 🔎 Busca de vagas em tempo real
-- 🤖 Envio automático de oportunidades
-- 💬 Comandos personalizados no Discord
-- 🌐 Integração com API externa
-- 🔐 Credenciais protegidas com variáveis de ambiente
-- ⚙️ Configuração independente por servidor
+-  Busca de vagas em tempo real
+-  Envio automático de oportunidades
+-  Comandos personalizados no Discord
+-  Integração com API externa
+-  Credenciais protegidas com variáveis de ambiente
+-  Configuração independente por servidor
 
 **Stack**
 
@@ -105,7 +105,7 @@ O sistema consome a **API da Adzuna**, permite pesquisas personalizadas e pode e
 
 <td width="50%" valign="top">
 
-### 💰 Gerenciador Financeiro
+###  Gerenciador Financeiro
 
 Aplicação em Python para gerenciamento de **finanças pessoais**, criada com foco em organização de código e conceitos de engenharia de software.
 
@@ -113,13 +113,13 @@ Permite controlar receitas, despesas, categorias, orçamentos e analisar informa
 
 **Principais recursos:**
 
-- 💳 CRUD de transações
-- 📊 Controle de orçamento por categoria
-- 🚨 Alertas de limite de gastos
-- 🗄️ Persistência com SQLite
-- 📁 Exportação de dados para CSV
-- 🧪 Testes automatizados
-- 📐 Arquitetura em camadas
+-  CRUD de transações
+-  Controle de orçamento por categoria
+-  Alertas de limite de gastos
+-  Persistência com SQLite
+-  Exportação de dados para CSV
+-  Testes automatizados
+-  Arquitetura em camadas
 
 **Stack**
 
@@ -135,7 +135,7 @@ Permite controlar receitas, despesas, categorias, orçamentos e analisar informa
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -147,7 +147,7 @@ Permite controlar receitas, despesas, categorias, orçamentos e analisar informa
 
 ---
 
-## 📈 Atividade
+##  Atividade
 
 <div align="center">
 
@@ -157,18 +157,18 @@ Permite controlar receitas, despesas, categorias, orçamentos e analisar informa
 
 ---
 
-## 🎯 Atualmente
+##  Atualmente
 
-- 📚 Graduando em **Engenharia de Computação**
-- 🐍 Aprofundando conhecimentos em **Python**
-- 🌐 Estudando desenvolvimento **Backend**
-- 🗄️ Evoluindo conhecimentos em **bancos de dados**
-- 🧠 Estudando **arquitetura e boas práticas de software**
-- 🚀 Desenvolvendo projetos para fortalecer meu portfólio
+-  Graduando em **Engenharia de Computação**
+-  Aprofundando conhecimentos em **Python**
+-  Estudando desenvolvimento **Backend**
+-  Evoluindo conhecimentos em **bancos de dados**
+-  Estudando **arquitetura e boas práticas de software**
+-  Desenvolvendo projetos para fortalecer meu portfólio
 
 ---
 
-## 📬 Contato
+##  Contato
 
 Se quiser conversar sobre tecnologia, projetos ou oportunidades, fique à vontade para entrar em contato.
 
@@ -182,7 +182,7 @@ Se quiser conversar sobre tecnologia, projetos ou oportunidades, fique à vontad
 
 <div align="center">
 
-### 💻 Transformando ideias em código, um projeto de cada vez.
+###  Transformando ideias em código, um projeto de cada vez.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mesql1&style=flat-square)
 
